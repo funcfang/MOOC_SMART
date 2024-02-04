@@ -2,6 +2,16 @@
 
 实现内容：提供 MOOC 课程链接，加载网页内容，构建知识库，大模型检索知识库进行回答。
 
+## 配置
+
+语言模型：Shanghai_AI_Laboratory/internlm-chat-7b
+
+向量模型：sentence-transformer
+
+框架：LangChain
+
+演示：Gradio
+
 ## 演示
 
 ### MOOC 课程

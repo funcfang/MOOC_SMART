@@ -1,12 +1,4 @@
-import langchain
-
-from LLM import InternLM_LLM
-from langchain.vectorstores import Chroma
-from langchain.embeddings.huggingface import HuggingFaceEmbeddings
-from langchain.document_loaders import WebBaseLoader
-from langchain.text_splitter import CharacterTextSplitter
 import re
-import langchain
 
 from LLM import InternLM_LLM
 from langchain.vectorstores import Chroma
